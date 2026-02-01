@@ -1,0 +1,21 @@
+# Arquivos do Excel (binários)
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
+# Arquivos temporários do Excel
+~$*.xls*
+
+# Backups
+*.bak
+
+# Logs
+*.log
+
+# Configurações de IDE
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
